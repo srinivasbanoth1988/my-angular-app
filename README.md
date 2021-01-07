@@ -1,7 +1,7 @@
 ### Build Steps 
 
   * packaged angular to project using mvn build
-  * Standalone or deployed app should run as normal project
+  * Standalone Spring boot app should work
   
 
 ## Google Cloud k8s Deployment Steps

@@ -1,7 +1,14 @@
+# My Angular Application
+
+### Instructions to Build & Run:
+
 ### Build Steps 
 
-  * packaged angular to project using mvn build
-  * Standalone Spring boot app should work
+ Steps to run the application from IDE:
+1. Clone the GIT Repository
+2. Import project into any IDE like Intellij using pom.xml
+3. Run App from Intellij Configuration straight away
+4. (Or) Go to AruNumGeneratorApplication File -> Right Click -> Run
   
 ## Docker hub image run command
 

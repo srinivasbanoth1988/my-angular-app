@@ -10,6 +10,7 @@
 3. Run App from Intellij Configuration straight away
 4. (Or) Go to MyAngularApp File -> Right Click -> Run
 5. Application by default runs on port 8090
+6. Login Page URL :  http://localhost:8090/
   
 ## Docker hub image run command
 

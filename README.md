@@ -8,7 +8,8 @@
 1. Clone the GIT Repository
 2. Import project into any IDE like Intellij using pom.xml
 3. Run App from Intellij Configuration straight away
-4. (Or) Go to AruNumGeneratorApplication File -> Right Click -> Run
+4. (Or) Go to MyAngularApp File -> Right Click -> Run
+5. Application by default runs on port 8090
   
 ## Docker hub image run command
 

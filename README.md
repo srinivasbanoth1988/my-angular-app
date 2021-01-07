@@ -3,6 +3,9 @@
   * packaged angular to project using mvn build
   * Standalone Spring boot app should work
   
+## Docker hub image run command
+
+docker run -p 8090:8090 srinivasnayak8/my-angular-app
 
 ## Google Cloud k8s Deployment Steps
 

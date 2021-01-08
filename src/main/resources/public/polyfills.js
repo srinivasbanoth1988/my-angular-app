@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/srinivasbanoth/myprojects/my-react-app/src/main/resources/angular-ui/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /Users/srinivasbanoth/myprojects/my-angular-app/src/main/angular-ui/src/polyfills.ts */"hN/g");
 
 
 /***/ }),
